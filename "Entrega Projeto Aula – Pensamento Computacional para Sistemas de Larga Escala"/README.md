@@ -10,9 +10,9 @@ da decomposição detalhada do processo de compra de ingressos online. A propost
 tarefas do cotidiano podem ser organizadas em etapas menores para facilitar análise, entendimento 
 e modelagem computacional.
 
-## Alunos
+## Alunos/Integrantes
 
-* Davi Lima Nunes de Oliveira — RGM: 44309147 
+* Davi Lima Nunes de Oliveira — RGM: 44309147 — [Repositório](https://github.com/Davi0071/Pensamento_computacional.git) 
 * Vitor Pereira da Silva Martins — RGM: 43952810 
 
 ## Objetivo da Atividade
